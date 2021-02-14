@@ -7,8 +7,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
-My name is Supreet Kaur and I'm a Software Developer. 
-I'm passionate about creating full stack mobile-first applications using MEAN Stack.
+My name is Supreet Kaur and I'm a Senior Software Developer. 
+I'm passionate about creating full stack mobile-first applications using MERN and PERN Stack.
 
 
 
